@@ -1,0 +1,8 @@
+Name: RevUnix
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: RevUnix
+Maintainer: T3raByt3
+Author: Akash Sharma
+Section: Tweaks

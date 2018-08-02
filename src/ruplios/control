@@ -1,0 +1,9 @@
+Name: RevUnix Payload iOS
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: RevUnix iOS
+Maintainer: T3raByt3
+Author: Akash Sharma
+Section: System
+Tag: role::hacker
